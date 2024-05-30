@@ -1,0 +1,65 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     2095 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.077 seconds
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.991000 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 289c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.313500 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.252600 ms (FindLiveObjects: 0.040400 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.185200 ms  DeleteObjects: 0.014300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.766300 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1465.
+Total: 1.076800 ms (FindLiveObjects: 0.091100 ms CreateObjectMapping: 0.039100 ms MarkObjects: 0.530700 ms  DeleteObjects: 0.415200 ms)
+
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\MUHIB\Desktop\ppppp\self driving cnn\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
